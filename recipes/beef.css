@@ -1,0 +1,46 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    display: inline-block;
+    background-color: yellow;
+    margin-left: 680px;
+}
+
+img{
+    display: block;
+    height: 350px;
+    width: auto;
+    margin-left: 720px;
+}
+
+div{
+    background-color: pink;
+}
+
+.second{
+    background-color: aqua;
+}
+
+.third{
+    background-color: lightcoral;
+}
+
+.footer{
+    background-color: blue;
+    color: white;
+    margin-top: 0px;
+    padding: 20px;
+    text-align: center;
+}
+p{
+    font-size: 24px;
+
+}
+
+li{
+    font-size: 20px;
+}
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
